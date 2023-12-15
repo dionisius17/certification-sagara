@@ -97,9 +97,9 @@ WSGI_APPLICATION = 'api_certification.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'd55s63ddjq4gc1',
-        'USER' : 'mbhnbgbbivuxnl',
-        'PASSWORD' : '3792cc46ab86045603441c567d45ca5713a7f8e669c491cd4078b3cf9217e2bf',
+        'NAME': 'd7l58v76t5sd06',
+        'USER' : 'vzudmcepihdwoe',
+        'PASSWORD' : 'c298b1fa8a5231335eab19a47230674cbd9246ab60d766d487af614e12d9a120',
         'HOST' : 'ec2-3-210-173-88.compute-1.amazonaws.com',
         'PORT' : '5432',
     }
